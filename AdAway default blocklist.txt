@@ -91001,9 +91001,6 @@ ff02::3 ip6-allhosts
 # [Google / DoubleClick][AS15169][64.233.160.0 - 64.233.191.255]
 0.0.0.0 m1.2mdn.net
 0.0.0.0 n339.asp-cc.com
-0.0.0.0 clickserve.dartsearch.net
-0.0.0.0 clickserve.eu.dartsearch.net
-0.0.0.0 clickserve.uk.dartsearch.net
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad2.doubleclick.net
 0.0.0.0 ad.ae.doubleclick.net
@@ -91072,7 +91069,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 affiliate.2mdn.net
 # 0.0.0.0  s0.2mdn.net #[affects video stream]
 # 0.0.0.0  static.2mdn.net #[affects Youtube]
-0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
